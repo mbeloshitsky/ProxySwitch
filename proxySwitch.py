@@ -18,8 +18,8 @@ import socket
 #    )
 proxies = [
     (
-        ('proxy.usurt.ru', 3128),
-         'proxy.usurt.ru:3128'
+        ('mylocspec.host', 80),
+         'mylocpro.xy:3128'
     ),
 ]
 
